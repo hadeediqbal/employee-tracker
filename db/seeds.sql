@@ -27,14 +27,14 @@ VALUES
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
- ('Taylor', 'Gentry', 7, NULL), -- 1
- ('Kelsey', 'Collins', 1, NULL), -- 2
- ('Connor', 'Vandiver', 5, 6), -- 3
- ('Maddie', 'Hannah', 5, NULL), -- 4
- ('Lauren', 'Fick', 4, 9), -- 5
- ('Rui', 'Hayashida', 9, NULL), -- 6
- ('Danny', 'McCracken', 8, 1), -- 7
- ('Andrea', 'Henson', 2, 2), -- 8
- ('Jenna', 'McBee', 3, NULL), -- 9
- ('Ryan', 'McBee', 6, 4), -- 10
+ ('Iqbal', 'Hadeed', 7, NULL), -- 1
+ ('Deere', 'John', 1, NULL), -- 2
+ ('Conrad', 'Sam', 5, 6), -- 3
+ ('Bravo', 'Murray', 5, NULL), -- 4
+ ('Luna', 'James', 4, 9), -- 5
+ ('Shree', 'Jack', 9, NULL), -- 6
+ ('Evergreen', 'Davy', 8, 1), -- 7
+ ('Elvis', 'Mcarthy', 2, 2), -- 8
+ ('Yasmin', 'Harry', 3, NULL), -- 9
+ ('Seacrest', 'Tony', 6, 4), -- 10
  ;
